@@ -6,7 +6,7 @@
 	<h1>Struts 2 Hello World Example</h1>
 
 	<h2>
-		Hello
+		Hello Test
 		<s:property value="username" />
 	</h2>
 	Not Authorised........
