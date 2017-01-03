@@ -3,7 +3,7 @@
 <html>
 <head></head>
 <body>
-	<h1>Struts 2 Hello World Example test on local first time</h1>
+	<h1>Struts 2 Hello World Example test on remote first time test on local first time</h1>
 
 	<h2>
 		<s:if test="hasActionMessages()">
