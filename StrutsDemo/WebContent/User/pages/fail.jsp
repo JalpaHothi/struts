@@ -9,5 +9,5 @@
 		Hello Test
 		<s:property value="username" />
 	</h2>
-	Not Authorised User........
+	Not Authorised User remote........
 </body>
