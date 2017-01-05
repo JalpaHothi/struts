@@ -9,7 +9,10 @@
 	<h1>Struts 2 Hello World Example test on remote first time</h1>
 
 
-	<h1>Local</h1>
+	<h1>Local1</h1>
+	<h1>Local2</h1>
+	<h1>Local3</h1>
+	
 
 	<h1>Remote1</h1>
 
