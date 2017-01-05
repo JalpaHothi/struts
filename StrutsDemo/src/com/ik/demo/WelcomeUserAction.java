@@ -19,7 +19,7 @@ public class WelcomeUserAction extends ActionSupport {
 	public String execute() {
 		/*
 		if (username.equals("admin")) {
-			return SUCCESS;
+			//return SUCCESS;
 		} else {
 			return ERROR;
 		}*/
