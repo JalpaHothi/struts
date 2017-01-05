@@ -10,7 +10,7 @@
 
 
 
-	<h1>Local123</h1><h1>Remote123</h1>
+	<h1>Local</h1><h1>Remote123</h1>
 
 	<h1>Local1</h1><h1>Local1</h1>
 
