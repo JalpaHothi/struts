@@ -21,7 +21,7 @@ public class WelcomeUserAction extends ActionSupport {
 		if (username.equals("admin")) {
 			//return SUCCESS;
 		} else {
-			return ERROR;
+			//return ERROR;
 		}*/
 		return SUCCESS;
 	}
