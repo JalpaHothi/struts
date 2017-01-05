@@ -15,6 +15,8 @@
 	
 
 	<h1>Remote1</h1>
+	<h1>Remote2</h1>
+	<h1>Remote3</h1>
 
 	
 	<h2>
