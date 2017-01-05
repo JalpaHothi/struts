@@ -4,7 +4,7 @@
 <head></head>
 <body>
 
-	<h1>Struts 2 Hello World Example test on local first time</h1>
+	<h1>Struts 2 Hello World Example test on local first time123</h1>
 
 	<h1>Struts 2 Hello World Example test on remote first time</h1>
 
