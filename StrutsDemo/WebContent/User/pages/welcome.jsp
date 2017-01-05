@@ -33,7 +33,7 @@
 				<s:actionmessage />
 			</div>
 		</s:if>
-		Hello
+		Hello 123
 		<s:property value="username" />
 	</h2>
 
