@@ -19,9 +19,9 @@ public class WelcomeUserAction extends ActionSupport {
 	public String execute() {
 		/*
 		if (username.equals("admin")) {
-			//return SUCCESS;
+			return SUCCESS;
 		} else {
-			//return ERROR;
+			return ERROR;
 		}*/
 		return SUCCESS;
 	}
@@ -52,7 +52,7 @@ public class WelcomeUserAction extends ActionSupport {
 
 	// all struts logic here
 	// by default method call
-	public String execute() {
+	//public String execute() {
 		
 		if (username.equals("admin")) {
 			return "success";
