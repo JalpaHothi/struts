@@ -8,7 +8,7 @@
 
 	<h1>Struts 2 Hello World Example test on remote first time</h1>
 
-	<h1>Remote</h1>
+	<h1>Remote1</h1>
 	
 	<h2>
 		<s:if test="hasActionMessages()">
