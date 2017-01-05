@@ -16,7 +16,7 @@
 </style>
 </head>
 <body>
-	<h1>Struts 2 Example</h1>
+	<h1>Struts 2 Hello World Example</h1>
 	<s:if test="hasActionErrors()">
 		<div class="errors">
 			<s:actionerror />
